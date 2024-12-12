@@ -1,0 +1,20 @@
+.h1{
+   height: 300px !important;
+   width: 100% !important;
+}
+
+.h2{
+    color: black;
+    font-size: 30px;
+
+}
+
+.textDiv{
+    border: 5px solid black;
+}
+
+.bmw{
+    border-radius: 50%;
+    width: 800px;
+    height: 700px;
+}
